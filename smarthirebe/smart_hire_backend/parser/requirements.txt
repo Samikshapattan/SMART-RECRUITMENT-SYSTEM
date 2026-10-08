@@ -1,0 +1,6 @@
+﻿Flask==2.3.2
+python-docx==0.8.11
+pypdf       # no version pin (pip chooses latest compatible)
+Werkzeug==3.0.0
+regex       # no version pin (pip chooses latest compatible)
+gunicorn==21.2.0

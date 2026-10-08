@@ -1,0 +1,52 @@
+SHREYAS  PRASHANT LALAGE 
+Computer Science Engineer 
+lalgeshreyas@gmail.com | +91 6362637506 |  LinkedIn | GitHub | Dharwad, Karnataka, India. 
+ 
+PROFILE SUMARRY 
+Computer Science student skilled in Java, Spring Boot, and React.js, currently working as an SDE Intern building real-world AI and full   
+stack solutions. 
+SKILL 
+Languages:  Java, Python, JavaScript. 
+Frameworks & Libraries: Spring Boot, Spring Security, ReactJs, NodeJS, NLP[Spacy]. 
+Tools & Databases: GitHub, JIRA, PostgreSQL, Hibernate, Firebase, MongoDB, Cursor. 
+ 
+EDUCATION 
+Bachelor of Engineering in Computer Science Engineering                                                   2026 | CGPA: 7.8 
+Shri Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad. 
+Class 12th                                         2022 | Percentage: 90% 
+Prerana Residential PU Science College, Hubli. 
+Class 10th                           2020 | Percentage: 78% 
+Sanjay Ghodawat International School, Attigre, Kolhapur, Maharashtra. 
+ 
+CERTIFICATIONS 
+ 
+Infosys Springboard: DBMS Part 1 & Part 2                 | December 2024      
+Part 1 link: DBMSPart1 | Part 2 link: DBMSPart2 
+ 
+PROFESSIONAL EXPERIENCE 
+SDE Intern                                                                                                July 2025-Current  
+PreSecure Solutions (Internship) 
+Technical Lead                                                                                                                                                                         Oct 2024-Current 
+Qwerty Student Technical Club (Team Member) 
+ 
+ 
+KEY PROJECTS 
+PreSchool-A WhatsApp-Based Education System.                               SDE Internship | Internship Project             
+Built a menu-driven WhatsApp solution for lecture uploads and access for teachers. 
+PreHire-AI Enabled Talent Acquisition Platform.                               SDE Internship | Internship Project             
+An AI integrated platform that eases “Talent acquisition” using agentic AI. 
+ 
+Insignia 2025                                                                  Backend developer| College Fest Project 
+Designed and developed a responsive UI for Insignia 2025’s official website to improve user engagement. 
+ 
+Decentralized Identity System- A Blockchain Based Identity Storage platform.         Backend developer |Minor Team Project 
+Built a decentralized identity system using Ethereum Blockchain, Solidity and MetaMask to store critical documents safer. 
+ 
+CrackIT- Placement Preparation Platform for Freshers.                               Full Stack |Minor Project             
+Developed a platform with topic wise quizzes, side quests and real-time doubt solving via discussion forum. 
+        
+LANGUAGES  
+English: Fluent | Hindi: Fluent | Kannada: Native 
+ 
+INTERESTS 
+Organizing events & workshops |Watching Anime | Dance | Food | Gym  

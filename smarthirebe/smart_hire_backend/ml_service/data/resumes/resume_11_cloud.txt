@@ -1,0 +1,11 @@
+SUMMARY:
+Cloud engineer with expertise in distributed systems and scalable deployments.
+
+SKILLS:
+AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, Python
+
+EDUCATION:
+B.Tech in CSE
+
+EXPERIENCE:
+Cloud Intern – Built CI/CD pipelines and containerized deployments for production services.

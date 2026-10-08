@@ -1,0 +1,74 @@
+SAMRIDHI NA VNEET PAL                                                   
+Information Science Engineer 
+Email: samridhipal16@gmail.com | Phone: +91 6363668454 
+LinkedIn: Samridhi Pal | LinkedIn | Location: Hubli, Karnataka, India. 
+ 
+Professional Summary 
+Information Science Engineering student with certification in Project Management by Google. 
+Skilled in Flutter development, UI/UX design , Frontend development  and leading  cross-
+functional teams to deliver impactful solutions. Currently focusing on MERN Stack. 
+ 
+Skills  
+• Software Development: Flutter, C, C++, Java, HTML, CSS, JS, MERN Stack(learning). 
+• UI/UX Design: Figma, Canva, Wireframing, Prototyping, User-Centric Design. 
+• Project Management: Agile, Waterfall, Asana. 
+• Soft Skills: Team Collaboration, Communication, Time Management. 
+ 
+Education 
+Bachelor of Engineering in Information Science Engineering 
+Shri Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad. 
+(2026) | CGPA: 8.83 
+Class 12th 
+Global Independent PU College, Hubli. 
+(2022) | Percentage: 85.16% 
+Class 10th 
+Sanskaar CBSE School, Hubli. 
+(2020) | Percentage: 84.6% 
+ 
+Certifications 
+Ciresta Technologies: UI/UX Designing | December 2024                                                             
+Link: UIUX Designing certificate  
+Google Project Management: Specialization Certificate | August 2024 
+Link: Project management certificate  
+Data Visualization: Empowering Business with Effective Insights | July 2024 
+Link: TATA Data Visualization certificate  
+ 
+ 
+     
+       Professional Experience 
+Workshop Organizer & Public Relations Manager                                  Oct 2024 – Current 
+Qwerty Student Technical Club (Team Member) 
+• Organized a workshop on Unix Shell Programming  and Python Game Jam , Reactivate 
+trained 90+ participants. Also, organized an event named GEEK OLYMPICS for Insignia’25.  
+• Promoted technical events, increasing engagement by 20%. 
+Project Manager (Graphics Team)                        Oct 2024 – Feb 2025 
+SpacECE India Foundation (Internship) 
+• Directed a team of graphic designers to deliver high -quality visual assets aligned with project 
+goals. Followed Waterfall method. 
+• Collaborated with cross -functional teams to align project deliverables with stakeholder 
+expectations. 
+Volunteer (NMMS Training)               Nov 2024-Dec 2025 
+Youth for Seva  
+• Participated in training programs focused on community services and youth development. 
+ 
+ Key Projects 
+Insignia 2025        Frontend Developer & Designer | College Fest Project 
+• Contributed to the frontend development and UI/UX design  of the official website for 
+Insignia 2025. 
+• Ensured responsive design and engaging visuals to attract participants and streamline event 
+navigation 
+YumBuddy – Your Cooking Companion App             Flutter Developer |Minor Team Project 
+• Developed a Flutter -based app with user -focused UI/UX and real -time recipe 
+recommendations.  
+• Implemented features like recipe search, cooking instructions, and user -generated content, 
+improving overall engagement 
+• Integrated APIs like Spoonacular for personalized suggestions, enhancing user satisfaction. 
+C-Byte: Online Food Ordering System                  C Programmer | Academic Team Project 
+• Developed a console-based food ordering and inventory management system  using C 
+programming. 
+• Implemented features for order processing, stock updates, and billing , simulating a real -
+world food service flow. 
+Languages  
+English: Fluent | Hindi: Native | Kannada: Fluent
+Interests 
+Organizing events & workshops | MERN Stack | UI/UX Design | Art and Craft | Cycling  

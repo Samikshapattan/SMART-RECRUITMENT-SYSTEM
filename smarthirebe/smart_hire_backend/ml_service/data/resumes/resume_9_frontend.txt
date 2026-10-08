@@ -1,0 +1,11 @@
+SUMMARY:
+Frontend developer focused on creating responsive and modern UI applications.
+
+SKILLS:
+HTML, CSS, JavaScript, React, Tailwind, UI/UX, Git
+
+EDUCATION:
+B.Tech in Computer Science
+
+EXPERIENCE:
+Frontend Projects – Designed multi-page React apps with reusable components and state management.

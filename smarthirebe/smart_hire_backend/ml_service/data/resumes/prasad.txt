@@ -1,0 +1,12 @@
+SUMMARY:
+Software developer focused on backend engineering, cloud technologies, microservices, and scalable application design.
+
+SKILLS:
+Java, Spring Boot, Spring MVC, Microservices, Docker, MySQL, PostgreSQL, AWS, Git, CI/CD, HTML, CSS, JavaScript
+
+EDUCATION:
+Bachelor of Engineering in Computer Engineering, Savitribai Phule Pune University
+
+EXPERIENCE:
+Backend Engineering Intern – Worked on REST APIs, Spring Boot modules, database optimization, and containerized deployments.
+Full Stack Academic Projects – Built end-to-end applications using Java, Spring Boot and cloud deployment.

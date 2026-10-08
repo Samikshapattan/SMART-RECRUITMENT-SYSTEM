@@ -1,0 +1,12 @@
+SUMMARY:
+Computer Science and Engineering student focused on data science, frontend engineering, and problem solving.
+
+SKILLS:
+Python, Java, HTML, CSS, JavaScript, React, SQL, C Programming, Data Science, Machine Learning, Git
+
+EDUCATION:
+Bachelor of Technology in Computer Science Engineering
+
+EXPERIENCE:
+Frontend Projects – Responsive UI development using React.js
+Data Science Mini Projects – Exploratory data analysis, visualization, and ML models

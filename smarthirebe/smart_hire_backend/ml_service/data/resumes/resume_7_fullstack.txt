@@ -1,0 +1,11 @@
+SUMMARY:
+Full Stack Developer experienced in building scalable web apps using MERN and Java Spring Boot.
+
+SKILLS:
+Java, Spring Boot, React, Node.js, MongoDB, SQL, Docker, AWS, HTML, CSS, JavaScript
+
+EDUCATION:
+B.Tech in Computer Science Engineering
+
+EXPERIENCE:
+Full Stack Intern – Built REST APIs, integrated React frontend, deployed containers on AWS EC2.

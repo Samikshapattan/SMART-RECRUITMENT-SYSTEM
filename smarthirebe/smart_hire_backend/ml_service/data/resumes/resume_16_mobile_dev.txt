@@ -1,0 +1,11 @@
+SUMMARY:
+Mobile Developer building apps using Flutter and Android Studio.
+
+SKILLS:
+Flutter, Dart, Firebase, Android SDK, Java, REST APIs
+
+EDUCATION:
+B.Tech in Information Technology
+
+EXPERIENCE:
+Mobile App Intern – Built Android apps with CRUD features and Firebase backend.

@@ -1,0 +1,11 @@
+SUMMARY:
+AI engineer with experience in NLP, feature extraction, and model deployment.
+
+SKILLS:
+Python, NLP, Transformers, TensorFlow, FastAPI, ML Ops
+
+EDUCATION:
+Bachelor of Technology in AI Engineering
+
+EXPERIENCE:
+AI Intern – Built NLP pipelines, fine-tuned models, deployed inference APIs.

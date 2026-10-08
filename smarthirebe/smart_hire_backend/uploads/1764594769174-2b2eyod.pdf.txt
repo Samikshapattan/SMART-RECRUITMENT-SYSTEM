@@ -1,0 +1,59 @@
+RAKSHITA  NAIK Email:rakshitan232@gmail.com 
+Linkedin 
+GitHub/ Portfolio Mobile: +91 7019452271 
+ 
+SUMMARY 
+Final-year Computer Science Engineering student specializing in  Data Science with strong skills in  C, Python, and R . Experienced in  
+Machine Learning, Generative AI, NLP, and Data Analysis  with projects in  healthcare, crime analytics, and real -time AI 
+applications. Proficient in  SQL, HTML, CSS, JavaScript  with hands -on work in  EDA, model development, and deployment . 
+Achievements include solving  100+ LeetCode problems (DSA, Algorithms)  and earning the  Salesforce AgentBlazer Silver 
+Champion badge (35,000+ Trailhead points). 
+ 
+EDUCATION 
+Alva’s Institute of Egineering and Technolog                                                                                                         Dakshinakannada, India 
+Bachelor of Engineering in CSE(Data Science); GPA: 7.71                                                                      September 2022 - August 2026 
+Sri Marikamba Govt. College                                                                                                                                                    Sirsi, India 
+PUC (PCME); 79%                                                                                                                                                   June 2020 - May 2022 
+ 
+SKILLS SUMMARY 
+● Languages: Python, SQL, C, R Programing, HTML/CSS,Three.js, Node.js 
+● Frameworks: Pandas, Numpy, Scikit-Learn, Matplotlib 
+● Tools: Power BI, Excel, PowerPoint, Tableau, MySQL, SQLite 
+● Platforms: PyCharm, Jupyter Notebook, Visual Studio Code,Streamlit 
+● Soft Skills: Rapport Building, Strong Stakeholder management, People Management, Excellent communication 
+ 
+WORK EXPERIENCE 
+DATA ANALYST INTERN | UNIFIED MENTOR                                                                                             July 2025 – October 2025 
+○ Performed Exploratory Data Analysis (EDA) on large datasets to extract patterns and trends. 
+○ Developed and evaluated machine learning models for classification and forecasting tasks, improving prediction 
+accuracy. 
+○ Automated data preprocessing pipelines including cleaning, transformation, and feature engineering to enhance 
+model performance. 
+○ Applied Python, Pandas, NumPy, Scikit-learn, and visualization tools to generate actionable insights for decision-making. 
+ 
+PROJECTS 
+Netflix Data Analysis(Python, Pandas, Matplotlib, Seaborn)            May 2025- June 2025 
+○ Conducted Exploratory Data Analysis (EDA) on the Netflix dataset to identify content trends across genres, release years, 
+and countries. 
+○ Analyzed viewing patterns to highlight regional preferences, genre popularity, and platform growth trends. 
+Generative AI Text Summarizer (Python + NLP)            June 2025- July 2025 
+○ Developed an AI-powered text summarization tool using transformer-based NLP models.  
+○ Automated long-document summarization, reducing text length by up to 60% while preserving key insights. 
+Facial Emotion Recognition (CNN + Python + OpenCV facial)                                                                           April 2025- May 2025 
+○ Built a real-time system to detect and classify facial emotions using Convolutional Neural Networks (CNN).  
+○ Integrated OpenCV for live video streaming and preprocessing of images. 
+ 
+Skin Disease Prediction (Python + ML)                                                                                                               March 2025- May 2025 
+○ Implemented machine learning models for classification of skin conditions using the HAM10000 dataset.. 
+○ Applied Scikit-learn and Python ML libraries to achieve high classification accuracy. 
+AI Crime Investigator (Python + SQL)                                                                                                                 March 2025- May 2025 
+○ Designed predictive ML models to identify crime hotspots and behavioral trend. 
+○ Built data pipelines for preprocessing, feature extraction, and predictive analysis. 
+ 
+CERTIFICATES   
+Infosys Springboard Data Science                                                                                                                       April 2025 
+Introduction to Data Analyst (IBM) March 2025 
+Salesforce Agentblazer Champion Silver badge                                                                                                                   August 2025 
+Deloitte Data Analyst Certificate   April 2025 
+AWS Solution Architecture Certificate March2025 
+  

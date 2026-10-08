@@ -1,0 +1,45 @@
+python
+java
+javascript
+c++
+c#
+react
+angular
+node.js
+node
+express
+spring
+django
+flask
+sql
+mysql
+postgresql
+mongodb
+git
+docker
+kubernetes
+aws
+azure
+gcp
+html
+css
+tensorflow
+pytorch
+nlp
+computer vision
+data analysis
+machine learning
+deep learning
+linux
+bash
+rest api
+graphql
+php
+ruby
+go
+swift
+kotlin
+android
+ios
+firebase
+redis

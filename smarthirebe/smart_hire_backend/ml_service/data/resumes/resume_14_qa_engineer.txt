@@ -1,0 +1,11 @@
+SUMMARY:
+QA Engineer passionate about automated testing and code quality.
+
+SKILLS:
+Selenium, Java, Testing Frameworks, CI/CD, Git, SQL
+
+EDUCATION:
+B.Tech in Computer Engineering
+
+EXPERIENCE:
+QA Intern – Wrote automated test suites and performed API testing.

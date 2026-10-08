@@ -1,0 +1,13 @@
+SUMMARY:
+Software developer with interest in cloud, backend architecture, and system design.
+
+SKILLS:
+Java, Spring Boot, MySQL, Docker, AWS, JavaScript, HTML, CSS, Git
+
+EDUCATION:
+Bachelor of Engineering in Computer Science
+
+EXPERIENCE:
+Academic backend projects using Java and Spring Boot
+Cloud deployment practice using AWS services
+Web development mini projects

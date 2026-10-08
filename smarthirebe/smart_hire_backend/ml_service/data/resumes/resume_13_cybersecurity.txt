@@ -1,0 +1,11 @@
+SUMMARY:
+Cybersecurity enthusiast skilled in vulnerability analysis and network security.
+
+SKILLS:
+Python, Networking, Linux, Burp Suite, OWASP, Security Testing
+
+EDUCATION:
+B.E. in Information Security
+
+EXPERIENCE:
+Security Intern – Conducted penetration testing and wrote vulnerability reports.

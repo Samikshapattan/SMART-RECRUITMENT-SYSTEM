@@ -1,0 +1,12 @@
+SUMMARY:
+Computer Science student with interests in web development, AI/ML, and full-stack engineering.
+
+SKILLS:
+Java, Python, HTML, CSS, JavaScript, React, SQL, Machine Learning, Git
+
+EDUCATION:
+Bachelor of Technology in Computer Science Engineering
+
+EXPERIENCE:
+Academic Web Development Projects – Frontend development using HTML/CSS/JS and React.
+Machine Learning Mini Projects – Data preprocessing, model training and evaluation.

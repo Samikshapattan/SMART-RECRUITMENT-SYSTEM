@@ -1,0 +1,11 @@
+SUMMARY:
+Data Science enthusiast skilled in statistical modeling and machine learning workflows.
+
+SKILLS:
+Python, Pandas, NumPy, Machine Learning, SQL, Data Visualization, TensorFlow
+
+EDUCATION:
+B.E. in Information Science
+
+EXPERIENCE:
+ML Intern – Worked on data cleaning pipelines and predictive modeling tasks.

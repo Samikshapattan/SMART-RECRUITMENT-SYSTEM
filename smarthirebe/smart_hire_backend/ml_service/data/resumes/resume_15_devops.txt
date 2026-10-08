@@ -1,0 +1,12 @@
+SUMMARY:
+DevOps engineer focused on automation, CI/CD, and cloud-native technologies.
+
+SKILLS:
+Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Bash, Terraform
+
+EDUCATION:
+B.E. in Computer Science
+
+EXPERIENCE:
+DevOps Intern – Automated build pipelines and containerized legacy services.
+

@@ -1,0 +1,41 @@
+PRASAD LONARE
++91 8983202896 ⋄ Nashik, Maharashtra
+prasadlonare321@gmail.com ⋄ linkedin.com/prasad-lonare ⋄ github.com/prasadlonare35
+OBJECTIVE
+Final-year B.Tech student in AI and Data Science with strong skills in Java, Python, SQL, and backend development.
+Experienced in building full-stack applications and APIs through projects and an internship. Seeking a Software
+Development role to apply my problem-solving and technical skills while contributing to innovative IT solutions.
+EDUCATION
+B.Tech in Artificial Intelligence and Data Science , KKWIEER, Nashik 2023 – 2026
+Current CGPA: 8.81
+Diploma in Computer Technology, K.K. Wagh Polytechnic, Nashik 2020 – 2023
+Final Percentage: 87.37%
+Class X (SSC), Navjeevan Day School, Sinnar 2020
+Percentage: 90.20%
+SKILLS
+Technical Skills Python, Java, SQL
+AI/ML Machine Learning, Deep Learning, Generative AI, Data Science
+Web & Tools FastAPI, React.js, Git/GitHub, MySQL, SQLite
+Core CS Concepts Data Structures and Algorithms, OOP, Operating Systems, Computer Networks
+EXPERIENCE
+Web Development Intern July 2022 - Aug 2022
+SachiTech Pvt. Ltd. Nashik, India (Certificate Link)
+• Assisted in developing a website for a tours and travels company, focusing on booking and payment features.
+• Improved website responsiveness and user experience through front-end enhancements.
+• Worked on both front-end and back-end using HTML, CSS, JavaScript, and MySQL.
+PROJECTS
+MolVista AI (Team of 4 – Feb 2025 - Present)
+Developing a web-based system for molecular generation and docking score prediction using deep learning.
+Tech: FastAPI, React.js, VAE, SE(3)-equivariant GNN
+SmartPostAnalytics (Team of 3 – Jan 2025)
+Developed a full-stack social media analytics platform with AI-driven insights, post comparisons, and hashtag analysis.
+Tech: FastAPI, React.js, Google Gemini AI, DataStax Astra DB (GitHub)
+RepFinderAI (Individual – Feb 2025)
+Built a FastAPI REST API to fetch and update public representatives’ contact details by locality.
+Tech: FastAPI, Python, SQLite (GitHub)
+ACHIEVEMENTS AND CERTIFICATIONS
+Winner - IoT Project Competition (2024) Secured 2nd place for developing a Smart Shopping Cart ,
+reducing checkout time by 50%. (View Post)
+Published research paper – Theft Detection in Shopping Cart using IR Sensor – IJARSCT (Paper Link)
+Certified in Java Programming – OVI IT Solutions (July 2022) (Certificate Link)
+Participated in International Level Hackathon – SunHacks (April 2024) (Certificate Link)

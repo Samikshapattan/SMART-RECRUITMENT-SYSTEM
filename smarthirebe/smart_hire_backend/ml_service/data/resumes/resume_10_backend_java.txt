@@ -1,0 +1,11 @@
+SUMMARY:
+Backend engineer specialized in designing REST APIs and microservices.
+
+SKILLS:
+Java, Spring Boot, MySQL, PostgreSQL, Docker, Redis, AWS
+
+EDUCATION:
+B.E. in Computer Engineering
+
+EXPERIENCE:
+Backend Intern – Developed microservices, optimized database queries, wrote unit tests.

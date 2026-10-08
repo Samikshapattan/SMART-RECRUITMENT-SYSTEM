@@ -1,0 +1,17 @@
+SUMMARY:
+Computer Science student skilled in Java, Spring Boot, and React.js, currently working as an SDE Intern building real-world AI and full stack solutions.
+
+SKILLS:
+Java, Spring Boot, Spring Security, React.js, JavaScript, Python, Node.js, NLP, PostgreSQL, Firebase, MongoDB, GitHub, JIRA, Hibernate
+
+EDUCATION:
+Bachelor of Engineering in Information Science Engineering, SDM College of Engineering and Technology, CGPA 7.8 (2026)
+Class 12th – Prerana Residential PU Science College (2022)
+Class 10th – Sanjay Ghodawat International School (2020)
+
+EXPERIENCE:
+SDE Intern – PreSecure Solutions (2025–Current)
+Technical Lead – Qwerty Student Technical Club (2024–Current)
+Backend Developer – Insignia 2025 College Fest Project
+Backend Developer – Decentralized Identity System (Blockchain, Solidity)
+Full Stack Developer – CrackIT Placement Platform

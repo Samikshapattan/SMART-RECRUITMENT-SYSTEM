@@ -1,0 +1,13 @@
+SUMMARY:
+Information Science Engineering student interested in software engineering, UI development, and data analytics.
+
+SKILLS:
+Java, Python, HTML, CSS, JavaScript, SQL, React, Data Analytics, Git
+
+EDUCATION:
+Bachelor of Engineering in Information Science Engineering
+
+EXPERIENCE:
+React UI Projects – Component design, responsive layouts
+Data Analytics Projects – SQL and Python-based analytics workflows
+Academic software engineering projects

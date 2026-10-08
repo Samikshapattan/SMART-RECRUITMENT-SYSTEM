@@ -1,0 +1,47 @@
+Rohit Aher
+Nashik,Maharashtra
+/ne+91-8856952035 rohitaher604@gmail.com Linkedin /gtbGithub
+EDUCATION
+K.K Wagh Institute Of Engineering Education and Research Nashik, Maharashtra
+B.Tech - Artificial Intelligence and Data Science CGPA: 7.7 2022 – 2026
+KVN Naik Arts, Commerce and Science College Nashik, Maharashtra
+Class XII HSC Science Percentage: 69.70 2020 – 2022
+Janta Vidyalaya Nashik, Maharashtra
+Class X SSC Percentage: 90.60 2019 – 2020
+TECHNICAL SKILLS
+Languages & Tools:C, C++, Python, SQL, Git, GitHub
+Libraries & Frameworks:NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn,
+Flask,Langchain,Langraph,Streamlit,Flask Api
+Data Science & Machine Learning:LLm,Gen-Ai,Agentic I,Data gathering, Data cleaning, EDA, Feature
+engineering, Feature selection & extraction, Supervised & Unsupervised Learning algorithms
+Mathematics for ML & DL:Statistics, Probability, Linear Algebra, Matrices
+Tools for Data Analysis:Tableau, Power BI, Excel
+Databases: MySQL
+PROJECTS
+End to End Multi AI RAG Chatbot October 2025
+• Developed an End-to-End Multi-AI Retrieval-Augmented Generation (RAG) Chatbot using LangGraph and
+AstraDB for intelligent and context-aware conversations.
+• Implemented multi-agent architecture with dynamic knowledge retrieval to enhance accuracy and response
+quality.
+• Tech Stack:Python, LangGraph, AstraDB
+YouTube Video and Website URL Content Summarization Gen AI App July 2025
+• Developed a Gen AI-powered application to summarize YouTube videos and website URLs using advanced
+text extraction and summarization models.
+• Implemented intelligent content parsing for long-form videos and web pages to generate concise, meaningful
+summaries in real time.
+• Tech Stack:Python, LangChain, Streamlit, OpenAI API
+Credit Risk Assessment Using Machine Learning March 2025
+• Built machine learning models to classify borrowers’ credit risk using financial and demographic data.
+• Implemented Logistic Regression, Random Forest, and XGBoost, evaluated with precision, recall, F1-score,
+and ROC-AUC.
+• Tech Stack:Python, Pandas, Scikit-learn, Jupyter Notebook
+CERTIFICATIONS
+• C++
+• Data Structures & OOP with C++
+• AWS Cloud
+• Machine Learning
+• Data Analytics
+EXTRACURRICULAR
+• Volunteer, Swapnapurti Foundation (NGO)
+• Member, Young Indians (YI)
+• NSS Member

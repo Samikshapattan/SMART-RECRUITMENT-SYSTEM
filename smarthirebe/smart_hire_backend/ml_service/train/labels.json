@@ -1,0 +1,74 @@
+{
+  "shreyas": {
+    "fullName": "Shreyas Prashant Lalage",
+    "email": "lalgeshreyas@gmail.com",
+    "phone": "+916362637506",
+    "location": "Dharwad, Karnataka",
+    "summary": "Computer Science student skilled in Java, Spring Boot, and React.js, currently SDE Intern building real-world AI solutions.",
+    "skills": ["java", "spring boot", "reactjs", "python", "javascript", "nlp", "mongodb", "postgresql"],
+    "education": [
+      "BE in Information Science Engineering — SDMCET Dharwad — 2026 — CGPA 7.8",
+      "Class 12 — Prerana College — 90%",
+      "Class 10 — SGI School — 78%"
+    ],
+    "experience": [
+      "SDE Intern — PreSecure Solutions — 2025–Present",
+      "Technical Lead — Qwerty Student Club — 2024–Present"
+    ]
+  },
+  "prasad": {
+    "fullName": "Prasad Lonare",
+    "email": "prasadlonare321@gmail.com",
+    "phone": "+918983202896",
+    "location": "Nashik, Maharashtra",
+    "summary": "Final-year B.Tech student specializing in AI and Data Science with strong development skills.",
+    "skills": ["python", "java", "sql", "fastapi", "reactjs", "machine learning"],
+    "education": [
+      "B.Tech AI & Data Science — KKWIEER Nashik — 2026",
+      "Diploma Computer Technology — K.K. Wagh Polytechnic — 2023"
+    ],
+    "experience": [
+      "Web Development Intern — SachiTech Pvt. Ltd — Jul 2022 - Aug 2022"
+    ]
+  },
+  "samridhi": {
+    "fullName": "Samridhi Navneet Pal",
+    "email": "samridhinpal0@gmail.com",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [],
+    "education": [],
+    "experience": []
+  },
+  "rohit": {
+    "fullName": "Rohit",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [],
+    "education": [],
+    "experience": []
+  },
+  "rakshita": {
+    "fullName": "Rakshita",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [],
+    "education": [],
+    "experience": []
+  },
+  "sakshi": {
+    "fullName": "Sakshi Joshi",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [],
+    "education": [],
+    "experience": []
+  }
+}
